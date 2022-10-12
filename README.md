@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Esplosioneh
-- 👀 I’m interested in OverPvP Network
+- 👀 I’m interested in my Community
 - 🌱 I’m currently learning Java, HTML & CSS
 
 
