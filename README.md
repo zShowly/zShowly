@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GX_Regent
+- 👋 Hi, I’m **@GX_Regent**
 - 👀 I’m interested in Community
 - 🌱 I’m currently learning Html, Css & Javascript
 - 🔰 I'm **SrAdmin** of [**PvP Hub**](https://discord.pvphub.it)
