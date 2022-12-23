@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Esplosioneh
-- 👀 I’m interested in my Community
+- 👀 I’m interested in Community
 - 🌱 I’m currently learning Html, Css & Javascript
 
 
