@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GX_Regent
 - 👀 I’m interested in Community
 - 🌱 I’m currently learning Html, Css & Javascript
-- 💠 I'm Owner of [Development Accademy](https://discord.gg/c92ySfQwCM)
+- 💠 I'm Owner of ##[Development Accademy](https://discord.gg/c92ySfQwCM)
 
 
 <!---
