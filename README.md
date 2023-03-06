@@ -1,9 +1,9 @@
 - 👋 Hi, I’m **@GX_Regent**
 - 👀 I’m interested in Community
 - 🌱 I’m currently learning Html, Css & Javascript
-- 🟣 I'm **Helper [Supporter]** of [**ObsMC Network**](https://discord.obsmc.it)
-- 💠 I'm **Owner** of [**Development Accademy**](https://discord.gg/c92ySfQwCM)
-- 🔰  I'm **SrAdmin** of [**PvP Hub**](https://discord.pvphub.it)
+- 🟣 I'm **Owner** of [**OverMine Network**](https://discord.overmine.it)
+- 💠 I'm **Helper (Ex Principal Founder)** of [**Development Accademy**](https://discord.gg/c92ySfQwCM)
+- 🔰  I'm **SrAdmin [Staff Manager]** of [**PvP Hub**](https://discord.pvphub.it)
 
 
 <!---
