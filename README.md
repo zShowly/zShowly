@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **@GX_Regent** on GitHub
-- 🔵 Telegram ⇨ **@RefusalSS**(https://t.me/RefusalSS)
+- 🔵 Telegram ⇨ [**@RefusalSS**](https://t.me/RefusalSS)
 - 👀 I’m interested in Community
 - 🌱 I’m currently learning Html, Css & Javascript
 - 🟣 I'm **Owner** of [**OverMine Network**](https://discord.overmine.it)
