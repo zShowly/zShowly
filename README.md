@@ -2,7 +2,7 @@
 - 🔵 Telegram ⇨ [**@RefusalSS**](https://t.me/RefusalSS)
 - 👀 I’m interested in Community
 - 🌱 I’m currently learning Html, Css & Javascript
-- 🟣 I'm **Owner** of [**OverMine Network**](https://discord.overmine.it)
+- 🟣 I'm **Coming Soon...**
 - 💠 I'm **Helper (Ex Principal Founder)** of [**Development Accademy**](https://discord.gg/c92ySfQwCM)
 - 🔰  I'm **SrAdmin [Staff Manager]** of [**PvP Hub**](https://discord.pvphub.it)
 
