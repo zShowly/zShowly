@@ -1,9 +1,9 @@
 - 👋 Hi, I’m **@GX_Regent** on GitHub
 - 🔵 Telegram ⇨ [**@RefusalSS**](https://t.me/RefusalSS)
 - 👀 I’m interested in Community
-- 🌱 I’m currently learning Html, Css & Javascript
+- 🌱 I’m currently learning Javascript
 - 🟣 I'm **Coming Soon...**
-- 💠 I'm **Helper (Ex Principal Founder)** of [**Development Accademy**](https://discord.gg/c92ySfQwCM)
+- 💠 I'm **Owner** of [**Development Accademy**](https://discord.gg/c92ySfQwCM)
 - 🔰  I'm **Owner** of [**CraftUnity**](https://discord.craftunity.it)
 
 
