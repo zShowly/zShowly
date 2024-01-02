@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **@GX_Regent** on GitHub
+- 👋 Hi, I’m **@zShowly** on GitHub
 - 🔵 Telegram ⇨ [**@RefusalSS**](https://t.me/RefusalSS)
 - 👀 I’m interested in Community
 - 🌱 I’m currently learning Javascript
