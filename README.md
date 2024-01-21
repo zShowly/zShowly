@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@zShowly** on GitHub
 - 🔵 Telegram ⇨ [**@RefusalSS**](https://t.me/RefusalSS)
-- 👀 I’m interested in Community
+- 👀 I’m interested in the Community
 - 🌱 I’m currently learning Java
 - 🟣 **Coming Soon...**
 - 💠 I'm **Owner** of [**Development Accademy**](https://discord.gg/c92ySfQwCM)
