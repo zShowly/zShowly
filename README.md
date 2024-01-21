@@ -2,7 +2,7 @@
 - 🔵 Telegram ⇨ [**@RefusalSS**](https://t.me/RefusalSS)
 - 👀 I’m interested in Community
 - 🌱 I’m currently learning Java
-- 🟣 I'm **Coming Soon...**
+- 🟣 **Coming Soon...**
 - 💠 I'm **Owner** of [**Development Accademy**](https://discord.gg/c92ySfQwCM)
 - 🔰  I'm **Owner** of [**CraftUnity**](https://discord.craftunity.it)
 
