@@ -3,8 +3,8 @@
 - 👀 I’m interested in the Community
 - 🌱 I’m currently...
 - 🟣 **Coming Soon...**
-- 💠 I'm **Owner** of [**Development Accademy**](https://discord.gg/c92ySfQwCM)
-- 🔰  I'm **Owner** of [**CraftUnity**](https://discord.craftunity.it)
+- 💠 I'm **Manager** of [**Yo-Kai Watch Italia**](https://discord.gg/ZMadQq5wpZ)
+- 🔰 I'm **Owner** of [**CraftUnity**](https://discord.craftunity.it)
 
 
 <!---
