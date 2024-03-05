@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **@zShowly** on GitHub
-- 🔵 Telegram ⇨ [**@RefusalSS**](https://t.me/RefusalSS)
+- 🔵 Telegram ⇨ [**@zShowly**](https://t.me/zShowly)
 - 👀 I’m interested in the Community
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently...
 - 🟣 **Coming Soon...**
 - 💠 I'm **Owner** of [**Development Accademy**](https://discord.gg/c92ySfQwCM)
 - 🔰  I'm **Owner** of [**CraftUnity**](https://discord.craftunity.it)
