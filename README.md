@@ -2,7 +2,7 @@
 - 🔵 Telegram ⇨ [**@zShowly**](https://t.me/zShowly)
 - 👀 I’m interested in the Community
 - 🌱 I’m currently...
-- 🟣 **Coming Soon...**
+- 🟣 I'm **SrMod** of [**ObsMC Network](https://discord.gg/obsmc)
 - 💠 I'm **Manager** of [**Yo-Kai Watch Italia**](https://discord.gg/ZMadQq5wpZ)
 - 🔰 I'm **Owner** of [**CraftUnity**](https://discord.craftunity.it)
 
